@@ -1,3 +1,5 @@
+# Cryptography
+
 ## BINPEG (10pts) 
 0 for Black and 1 for White
 ```
