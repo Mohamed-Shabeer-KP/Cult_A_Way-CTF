@@ -2,3 +2,4 @@
 Cult_A_Way CTF Challanges
 
 ### Cryptography - 55 points
+### Miscellaneous - 200 points
